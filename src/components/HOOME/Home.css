@@ -1,0 +1,187 @@
+  .home-container {
+    height:617px;
+    display: flex;
+    flex-direction: column;
+    align-items:left;
+    justify-content:center;
+    background-color: black;
+    padding:29px 0px 0px 0px;
+
+  }
+  .home-containerc1{
+    height: 420px;
+    width: 58%;
+    margin-top: 5%;
+    background-color: black;
+    display: flex;
+  }
+
+ .home-container2{
+    height: 300px;
+    width: 60%;
+    text-decoration: none;
+    font-weight:700;
+    font-size:medium;
+    color:orange;
+    text-align: left;
+    text-indent: 35%;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color:black;
+    margin-left: 10%;
+  } 
+  .typing-container{
+    margin-top: 35px;
+    font-size: 1.3em;
+    position: static;
+    text-align: left;
+    display: flex; 
+    margin-top: 5%;
+}
+.typing-container p{
+  width: 40px;
+  font-size: 1.6em;
+  margin-left:2%;
+  display: flex;
+  text-indent:2%;
+  flex-direction: column;
+  align-items:left;
+  margin-top: 1%;
+}
+.text22{
+  font-size: 1.3em;
+  position: static;
+  text-align: left;
+  display: flex;
+  margin-left: 20%;
+  height: 30%;
+}
+  .typing-text{
+    width: 100px;
+    height: 70px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    text-align: left;
+    font-size:1.3em;
+    white-space: nowrap;
+    box-sizing: border-box;
+    transition: transform 0.3s ease;
+    margin-top: 4%;
+    flex-direction: row;
+} 
+  .hc1{
+    height:auto;
+    width: auto;
+    font-size: 13px;
+    margin-top:3%;
+    text-indent: 77px;
+  }
+  .text1{
+    height:70px;
+    width:auto;
+    text-decoration: none;
+    font-weight:700;
+    font-size: 4.5em; 
+    text-indent: 45px;
+    color: white;
+    display: flex;
+    align-items: center;
+  }
+  .text2{
+    width:100%;
+    text-indent: 20px;
+    color: orange;
+    display: flex;
+  }
+  .text3{
+    width:50%;
+    text-indent: 8px;
+    color: blueviolet;
+  } 
+.animation{
+  height:70px;
+    width:auto;
+    text-decoration: none;
+    font-weight:700;
+    font-size: 4.7em; 
+    text-indent: 45px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+  .hc2{
+    text-decoration: none;
+    font-weight:700;
+    font-size: 2.5em;
+      width:100%;
+      text-indent: 20px;
+      color: blueviolet;
+      display: flex;
+      text-indent: 45px;
+  }
+  .hc11{
+    height: 100%;
+    width: auto;
+    display:flex;
+    justify-content:left;
+    margin-top: 9px;
+  }
+  .hc3{
+    height:16%;
+    width:19%;
+    margin-left:70px ;
+    background-color: black;
+    border:2px solid white;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+    border-radius: 2em ;
+    margin-right:28px;
+}
+.LIKENDIN{   
+    color:white;
+    text-indent:7px;
+    text-decoration: none;
+    align-items: center;
+    font-weight:400;
+    text-shadow: .3px .3px 3px white;
+  }
+.hc3:hover{border:.2em solid blueviolet ;
+  background: orange;
+  -webkit-text-fill-color: black;
+}
+.hc4{
+  height:16%;
+  width:22%;
+  margin-left:40px ;
+  background-color: black;
+  border:2px solid white;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  margin-top: 7px;
+  border-radius: 2em ;
+}
+.MYWORKS{   
+  color:white;
+  text-indent:7px;
+  text-decoration: none;
+  align-items: center;
+  font-weight:400;
+  text-shadow: .3px .3px 3px white;
+}
+.hc4:hover{border:.2em solid blueviolet;
+background: orange;
+-webkit-text-fill-color: black;
+}
+.containerc2 {
+  display: flex;
+  justify-content: space-between;
+  height: 100%;
+  width:20%;
+  margin-left: 35%;
+  margin-bottom: 50%;
+}

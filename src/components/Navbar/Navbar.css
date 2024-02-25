@@ -1,0 +1,96 @@
+.nbox1{
+    height: 73px;
+    width: 100%;
+    background-color: black;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.nbox11{
+    height: 22px;
+    width: 15%;
+    background-color: black;
+    margin-left:29px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nbo{
+    text-decoration: none;
+    font-weight:700;
+    font-size: 2em;
+    color: blueviolet;
+    margin-top: 12%;
+    text-shadow: 1px 1px 2px white;
+}
+.nbo:hover{border-bottom:2px solid blueviolet;
+    color:orange;
+    text-shadow: 1px 1px 2px blue;
+    }
+.nbox12{
+    height: 50%;
+    width: 50%;
+    background-color: black;
+    margin-left:20%;
+    display: flex;   
+}
+.ll{
+    height:100%;
+    width: 90%;
+}
+.nav-list { 
+    height: auto;
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.nav-list li{
+    font-size: 17px;
+    color: white;
+    font-weight: 600;
+    opacity: 1 !important;
+    text-align:justify;
+    margin-left: 35px;
+}
+.nav-list li:hover{
+    font-weight: bold; 
+    cursor: pointer;
+    display: block;
+    border-bottom: 2px solid blueviolet;
+    color: orange;
+}
+.nbox13{
+    margin-top:18px;
+    height:20%;
+    width:auto;
+    background-color: black;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.hireme{
+    cursor: pointer;
+    margin-right: 29px;
+    border-radius: 8.75em ;
+    font-family:Verdana;
+    color:white;
+    font-size: 1.1em;
+    padding:8px 16px;
+    font-weight: 300;
+    background-color:orange;
+    text-decoration: none; 
+    text-shadow: .6px .6px 4px black;
+
+}
+.hireme:hover{border:2.3px solid blueviolet;
+    
+}
+.sticky-top {
+    position: sticky;
+    top:0;
+    z-index: 2;
+    background-color: #f1f1f1; 
+    width: 100%;
+}

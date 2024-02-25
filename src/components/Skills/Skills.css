@@ -1,0 +1,138 @@
+.scontainer1{
+    height: 610px;
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    justify-content: top;
+    background-color: black;
+    padding:57px 0px 0px 0px;
+}
+.sc0{
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    color: orange;
+    font-size: 3.4em;
+    font-weight: 500;
+    text-shadow: .6px .6px 3px blueviolet;
+    text-align:left;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-bottom:10px;
+  }
+.sc11{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+    height:37%;
+    margin-top:25px;
+    background-color:black;
+    justify-content:10px;
+}
+.sc121.dropdown-container {
+    position: relative;
+    display: inline-block; 
+    width:30%;
+    background-color: black;
+    margin-left: 40px;
+    }
+.sc1.dropdown-button,
+.sc2.dropdown-button,
+.sc3.dropdown-button{
+    color: white;
+    padding:10px;
+    font-size:23px;
+    font-weight:400;
+    border:none;
+    cursor: pointer;
+    text-shadow:1px 1px 4px black;
+    background-color:blueviolet;
+    border-radius: 15px;
+    width:62%;
+    margin-left:20%;
+}
+    .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:transparent;
+    width: max-content;
+    }
+    .sc212.dropdown-content li {
+    text-decoration-color:transparent;
+    font-size:20px;
+    font-weight:380;
+    border:none;
+    text-align: left;
+    color:white;
+    list-style-type:disc;
+    }
+    .dropdown-button:hover{border:2px solid orange;
+        font-weight:400;
+    }
+    .dropdown-button:hover .dropdown-content {
+    display: block;
+}
+
+.sc12{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+    height:37%;
+    background-color:black;
+    justify-content:10px;
+}
+.sc122.dropdown-container {
+    position: relative;
+    display: inline-block; 
+    width:30%;
+    background-color: black;
+    margin-left: 40px;
+}
+.sc21.dropdown-button{
+    color: white;
+    padding:10px;
+    font-size:23px;
+    font-weight:400;
+    border:none;
+    cursor: pointer;
+    text-shadow:1px 1px 4px black;
+    background-color:blueviolet;
+    border-radius: 15px;
+    width:69%;
+    margin-left:20%;
+}
+.sc22.dropdown-button,
+.sc23.dropdown-button{
+    color: white;
+    padding:10px;
+    font-size:23px;
+    font-weight:400;
+    border:none;
+    cursor: pointer;
+    text-shadow:1px 1px 4px black;
+    background-color:blueviolet;
+    border-radius: 15px;
+    width: 60%;
+    margin-left:22%;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:transparent;
+    width: max-content;
+}
+.sc222.dropdown-content li {
+    text-decoration-color:transparent;
+    font-size:20px;
+    font-weight:380;
+    border:none;
+    text-align: left;
+    color:white;
+    list-style-type:disc;
+}
+.dropdown-button:hover{border:2px solid orange;
+    font-weight:400;
+}
+.dropdown-button:hover .dropdown-content {
+display: block;
+ }
