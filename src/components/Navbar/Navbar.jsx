@@ -14,7 +14,7 @@ const Navbar = () => {
          <div className="nbox12">
                <div className="ll">
                    <ul className="nav-list">
-                     <li><Link to="home-container" smooth={true} duration={500} activeClass="active">Homeee</Link></li>
+                     <li><Link to="home-container" smooth={true} duration={500} activeClass="active">Home</Link></li>
                       <li><Link to="me-container" smooth={true} duration={500} activeClass="active">About Me</Link></li>
                       <li><Link to="econtainer1" smooth={true} duration={500} activeClass="active">Career</Link></li>
                       <li><Link to="scontainer1" smooth={true} duration={500} activeClass="active">Skills</Link></li>
