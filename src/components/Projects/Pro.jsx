@@ -18,7 +18,7 @@ function Pro() {
               <div className="pc11">
                <img className="p1-image" src={p1} alt="Flipkart Clone"/>
               </div>
-              <a href="https://flipkart-clonebyhari.netlify.app/" target="_blank" rel="noopener noreferrer" className="p-button">Flipkart Clone</a>
+              <a href="https://harisaigithub.github.io/flipkart_clone/" target="_blank" rel="noopener noreferrer" className="p-button">Flipkart Clone</a>
               <div className="pt">
                 <li>Click Flipkart Clone ⬉ to navigate</li>
                 <ul>☆Project Description:</ul>
@@ -26,7 +26,7 @@ function Pro() {
                   In this project, I have built a functional clone of the popular Indian e-commerce platform Flipkart, using only HTML and CSS.</p>
                   <p>This project showcases my understanding of front-end development principles and my ability to translate them into a real-world application.</p>
               </div>
-              <a href="https://github.com/harisaigithub/PROJECTS__/tree/main/Flipkart_clone.file"  target="_blank" rel="noopener noreferrer" className="g-button">View in Github</a>
+              <a href="https://github.com/harisaigithub/flipkart_clone"  target="_blank" rel="noopener noreferrer" className="g-button">View in Github</a>
            </div>
           <div className="pc2">
               <div className="pc21">
@@ -59,13 +59,13 @@ function Pro() {
             <div className="pc41">
             <img className="p4-image" src={p4} alt="MY Portfolio"/>
             </div>
-            <a href="www.example.com" className="p-button">My Portfolio</a>
+            <a href="https://parasa-harisai-portfolio.netlify.app/"  target="_blank" rel="noopener noreferrer" className="p-button">My Portfolio</a>
               <div className="pt">
                 <li>Click Portfolio ⬉ to navigate</li>
                 <ul>☆Project Description:</ul>
                 <p>My portfolio website is a dynamic and interactive platform designed to showcase my skills, experience, and projects to the world.</p><p>Built with a blend of cutting-edge technologies, the site delivers a visually stunning and engaging user experience across all devices.</p>
               </div>
-              <a href="https://www.github.com/harisaigithub"  target="_blank" rel="noopener noreferrer"className="g-button">View in Github</a>
+              <a href="https://github.com/harisaigithub/My_portfolio"  target="_blank" rel="noopener noreferrer"className="g-button">View in Github</a>
             </div>
             <div className="pc5">
             <div className="pc51">
