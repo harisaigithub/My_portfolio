@@ -1,4 +1,8 @@
 # My_portfolio
+Rate-Review-Rost my portfolio
+here the link u can access https://parasa-harisai-portfolio.netlify.app/
+
+
 My Portfolio made using ReactJS , JS &lt;inlcudes HTML, CSSS and TailwindCSS
 
 
