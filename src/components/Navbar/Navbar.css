@@ -94,19 +94,14 @@
     background-color: #f1f1f1; 
     width: 100%;
 }
-/* ... (your existing styles) */
 
-/* Hamburger icon styles */
 .hamburger {
     display: none;
     cursor: pointer;
     font-size: 24px;
     color: white;
   }
-  
-  /* ... (your existing styles) */
 
-/* Hamburger icon styles */
 .hamburger {
     display: none;
     cursor: pointer;
@@ -115,7 +110,6 @@
     color: white;
   }
   
-  /* Media query for mobile responsiveness */
   @media (max-width: 767px) {
     .hamburger {
       display: block;
