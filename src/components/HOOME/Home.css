@@ -210,27 +210,10 @@ background: orange;
     margin:0px;
     font-size: 50%;
     justify-content: baseline;
-    margin-left:35%;
+    margin-left:15%;
   }
   .hmain{
     height: 45px;
-  }
-  .hc11{
-    height:auto;
-    margin: 0px 0px 0px 0px;
-    font-size:140%;
-    justify-content: left;
-    text-align: center;
-    display: flex;
-    flex-direction:row;
-    width:auto;
-
-  }
-  .h3 a{
-    display: flex;
-    text-align: center;
-    justify-content:center;
-    width:auto;
   }
   .text22{
     height:10%;
@@ -238,11 +221,14 @@ background: orange;
    text-align: center;
   }
   .hc2{
+    font-size: 190%;
+    width: auto;
     text-align: center;
     justify-self:center;
   }
   
   .text22 p{
+    font-size: 150%;
     margin: 0px 0px 0px 0px;
     padding: 0px;
     height: max-content;
@@ -251,18 +237,38 @@ background: orange;
     margin: 0px 0px 0px 0px;
     padding: 0px;
     height: max-content;
-  }
-  .containerc2{
-    height:30%;
-    width:auto;
-    align-items: center;
-    text-align: center;
-    margin: 0%;
+    width: 10%;
   }
   .containerc2 img{
-   height:200px;
-    align-items: center;
-    text-align: center;
-    margin-left: 35%;
+    height: 200px;
+    margin: 0px;
   }
+  .containerc2{
+    margin: 0px;
+    width: auto;
+    margin-left: 25%;
+  }
+  .hc11{
+    width: 100%;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0px;
+  }
+  .hc3{
+     display: flex;
+     justify-content: center;
+     text-align:center;
+      width:22%;
+     margin:3px;
+  }
+  .hc4{
+    display: flex;
+    justify-content: center;
+    text-align:center;
+     width:25%;
+    margin:3px;
+ }
+ 
 }
