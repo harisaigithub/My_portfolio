@@ -6,7 +6,6 @@
     justify-content:center;
     background-color: black;
     padding:29px 0px 0px 0px;
-
   }
   .home-containerc1{
     height: 420px;
@@ -183,5 +182,11 @@ background: orange;
   height: 100%;
   width:20%;
   margin-left: 35%;
-  margin-bottom: 50%;
+  margin-bottom: 20%;
+}
+.hmain{
+  height:8px;
+}
+@media (max-width:1180px) {
+
 }

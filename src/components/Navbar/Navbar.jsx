@@ -25,7 +25,7 @@ const Navbar = () => {
           <div className="ll">
             <ul className={`nav-list ${isActive ? 'active' : ''}`}>
               <li><Link to="home-container" smooth={true} duration={500} onClick={closeNav}>Home</Link></li>
-              <li><Link to="me-container" smooth={true} duration={500} onClick={closeNav}>About Me</Link></li>
+              <li><Link to="hmain" smooth={true} duration={500} onClick={closeNav}>About Me</Link></li>
               <li><Link to="econtainer1" smooth={true} duration={500} onClick={closeNav}>Career</Link></li>
               <li><Link to="scontainer1" smooth={true} duration={500} onClick={closeNav}>Skills</Link></li>
               <li><Link to="pcontainer1" smooth={true} duration={500} onClick={closeNav}>Projects</Link></li>

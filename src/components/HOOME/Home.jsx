@@ -80,6 +80,7 @@ function Home(){
        <img src={myImage} alt="ME" />
        </div>
        </div>
+      <div className="hmain"></div>
     </div> 
   );
 };
