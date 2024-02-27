@@ -75,7 +75,7 @@ function Home(){
              </a>
               </div> 
               </div>
-         </div>
+       </div>
          <div className="containerc2">
        <img src={myImage} alt="ME" />
        </div>
