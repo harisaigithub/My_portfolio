@@ -223,10 +223,11 @@ background: orange;
     text-align: center;
     display: flex;
     flex-direction:row;
-    width: 70%;
+    width:auto;
 
   }
   .h3 a{
+    display: flex;
     text-align: center;
     justify-content:center;
     width:auto;
