@@ -219,43 +219,49 @@ background: orange;
     height:auto;
     margin: 0px 0px 0px 0px;
     font-size:140%;
-    width:70%;
+    justify-content: left;
     text-align: center;
-    justify-content:left  ;
+    display: flex;
+    flex-direction:row;
+    width: 70%;
+
+  }
+  .h3 a{
+    text-align: center;
+    justify-content:center;
+    width:auto;
   }
   .text22{
     height:10%;
    font-size: 180%;
-   margin-left: 15%;
+   text-align: center;
   }
   .hc2{
     text-align: center;
-    margin-left: 10%;
+    justify-self:center;
   }
+  
   .text22 p{
     margin: 0px 0px 0px 0px;
     padding: 0px;
     height: max-content;
-    margin-left: 5%;
   }
   .typing-text{
     margin: 0px 0px 0px 0px;
     padding: 0px;
     height: max-content;
-    margin-left: 5%;
   }
   .containerc2{
-    justify-content: baseline;
     height:30%;
     width:auto;
     align-items: center;
     text-align: center;
-    margin:0px;
+    margin: 0%;
   }
   .containerc2 img{
    height:200px;
     align-items: center;
     text-align: center;
-    margin-left:40%;
+    margin-left: 35%;
   }
 }
