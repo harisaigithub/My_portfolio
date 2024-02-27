@@ -110,7 +110,7 @@
     color: white;
   }
   
-  @media (max-width: 567px) {
+  @media (max-width:1180px) {
     .hamburger {
       display: block;
       margin-right: 3px;
@@ -140,6 +140,18 @@
       width: 20%;
     border-radius: 20px;
 
+    }
+    .nbo{
+    text-decoration: none;
+    font-weight:700;
+    font-size: 2em;
+    color: blueviolet;
+    margin-top: 5%;
+    text-shadow: 1px 1px 2px white;
+}
+.nbo:hover{border-bottom:2px solid blueviolet;
+    color:orange;
+    text-shadow: 1px 1px 2px blue;
     }
   
     .nav-list li {
