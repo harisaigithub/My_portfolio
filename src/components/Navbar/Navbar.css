@@ -126,25 +126,29 @@
     .nav-list {
       display: flex;
       flex-direction: column;
-      align-items:right;
+      align-items:center;
       background-color: black;
       position: absolute;
-      top: 60px;
+      top: 50px;
       max-height: 0;
       overflow: hidden;
-      left: 68%;
+      left: 72%;
     }
   
     .nav-list.active {
       max-height: 500px;
       width: 20%;
+    border-radius: 20px;
+
     }
   
     .nav-list li {
       text-align: right;
       margin-left: 0;
       margin-bottom:5px;
-      font-size: 13px;
+      font-size: 17px;
+    border-radius: 20px;
+
     }
     
     .nav-list li:hover{
@@ -153,7 +157,16 @@
         display: block;
         color: orange;
         border-bottom: none;
+        border-radius: 20px;
     }
+    .sticky-top {
+    position: sticky;
+    top:0;
+    z-index: 2;
+    background-color: #f1f1f1; 
+    width: 100%;
+}
+
 .hireme{
     cursor: pointer;
     margin-right: 29px;
