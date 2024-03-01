@@ -68,7 +68,7 @@ const Skills = () => {
                  Tools⎆↙☚
                 <div className="sc222 dropdown-content">
                    <ul>
-                   <li>Amazon Web Service (AWS)</li>
+                   <li>Amazon Web Service</li>
                    <li>Google Cloud</li>
                    <li>Power BI</li>
                    <li>Microsoft Office</li>

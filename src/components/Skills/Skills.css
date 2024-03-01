@@ -244,7 +244,7 @@ display: block;
     overflow:inherit;
     text-align: left;
     background-color: black;
-    margin-left:4px;
+    margin-left:0px;
     left:1%;
     }
     .sc21.dropdown-button{
@@ -258,7 +258,7 @@ display: block;
         background-color:blueviolet;
         border-radius: 10px;
         width:103%;
-        margin-left:1%;
+        margin-left:3%;
     }
     .sc22.dropdown-button,
     .sc23.dropdown-button{
