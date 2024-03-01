@@ -136,7 +136,12 @@
 .dropdown-button:hover .dropdown-content {
 display: block;
  }
+ .bcc1{
+    color: red;
+    font-size: 13px;
+    display: none;
 
+}
  @media (max-width:1180px){
     .scontainer1{
         height: 610px;
@@ -232,7 +237,7 @@ display: block;
         overflow:inherit;
         text-align: left;
         background-color: black;
-        margin-left:12px;
+        margin-left:11px;
         left:1%;
 
     }
@@ -295,5 +300,9 @@ display: block;
     .dropdown-button:hover .dropdown-content {
     display: block;
      }
-    
+.bcc1{
+    color: red;
+    font-size: 13px;
+    display: block;
+}
  }

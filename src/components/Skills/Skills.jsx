@@ -6,6 +6,9 @@ const Skills = () => {
     <div className="sc0">
         Skills
     </div>
+    <div className="bcc1">
+        *click to get list
+    </div>
         <div className="sc11">
             <div className="sc121 dropdown-container">
                 <div className="sc1 dropdown-button">
