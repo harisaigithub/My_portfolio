@@ -78,7 +78,7 @@ const Skills = () => {
               </div>
           </div>   
         </div>
-        <div className="sc122 dropdown-container">
+        <div className="sc1221 dropdown-container">
         <div className="sc23 dropdown-button">
                  Strengths⎆↙☚
                 <div className="sc222 dropdown-content">
@@ -86,8 +86,8 @@ const Skills = () => {
                      <li>Communication Skills</li>
                      <li>Problem-Solving</li>
                      <li>Critical Thinking</li>
-                     <li>Adaptability & Resilience</li>
-                     <li>Teamwork & Collaboration</li>
+                     <li>Adaptability</li>
+                     <li>Teamwork</li>
                      <li>Time Management</li>
                      <li>Organization</li>
                   </ul>
