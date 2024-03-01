@@ -193,7 +193,7 @@
 .pc111{
     margin-top: 10px;
     height:100%;
-    width:40%;
+    width:auto;
     display: flex;
     flex-direction: row;
     margin-bottom:20px;
@@ -202,7 +202,7 @@
 .pc222 {
     margin-top: 10px;
     height:100%;
-    width:40%;
+    width:auto;
     display: flex;
     flex-direction: row;
 } 
