@@ -19,7 +19,7 @@ function Cont(){
 		<div className="dt11">
 		<FontAwesomeIcon icon={faSignsPost} style={{color: "#ff9500",}} />
 		</div>
-		 Guntur
+		Guntur  
 	  </div>
 	  <div className="dt1">
 		<div className="dt11">
@@ -31,7 +31,7 @@ function Cont(){
 	  <div className="dt11">
 			<FontAwesomeIcon icon={faPaperPlane} style={{color: "#ff9500",}} />
 			</div>
-			harisaiparasa@gmail.com
+			harisaiparasa @gmail.com
 	  </div>
 	   <div className="dt3">
 		<div className="dt11">
