@@ -347,3 +347,183 @@
 }    
 }
 
+@media (max-width:600px){
+    .pcontainer1{
+        height:100%;
+        width: 100%;
+        display: flex;
+        align-items: left;
+        flex-direction: column;
+        justify-content: top;
+        background-color:black;
+        padding:60px 0px 0px 0px;
+    }
+    .pc0{
+        display: flex;
+        flex-direction: column;
+        justify-content: top;
+        color: orange;
+        font-size: 3.4em;
+        font-weight: 500;
+        text-shadow: .6px .6px 3px blueviolet;
+        text-align:left;
+        margin-bottom:8px;
+        margin-left: 40px;
+    }
+    .pc111{
+        margin-top: 10px;
+        height:100%;
+        width:auto;
+        display: flex;
+        flex-direction: row;
+        margin-bottom:20px;
+    } 
+    
+    .pc222 {
+        margin-top: 10px;
+        height:100%;
+        width:auto;
+        display: flex;
+        flex-direction: row;
+    } 
+    .pc1, .pc2, .pc3, .pc4, .pc5, .pc6{
+        margin-left:1%;
+        width: 100%;
+        margin:2px;
+        display: flex;
+        flex-direction:column;
+        margin-bottom:30px;
+        border-radius: 30px;
+        border-style:groove;
+    }
+    .pc11,.pc21,.pc31,.pc41,.pc51,.pc61{
+        height: 40%;
+    }
+    .p2-image, .p3-image, .p4-image, .p5-image, .p6-image{
+        margin-top:10px;
+        height:90%;
+        width:94%;
+        border-radius:10px;
+    }
+    .p1-image{
+        margin-top:10px;
+        height: 90%;
+        width:94%;
+        border-radius:10px;
+    }
+    
+    .p-button {
+        display: inline-block;
+        padding: 5px 8px;
+        background-color: blueviolet;
+        color: white;
+        border: none;
+        border-radius: 14px;
+        cursor: pointer;
+        width: 70%;
+        margin: 10px;
+        margin-left:10px;
+        text-decoration: none;
+        font-weight: 550; 
+        text-shadow: 2px 2px 4px black;
+    }
+    .p2-button {
+        display: inline-block;
+        padding: 5px 8px;
+        background-color: blueviolet;
+        color: white;
+        border: none;
+        font-size: 13px;
+        border-radius: 14px;
+        cursor: pointer;
+        width: 70%;
+        margin-left:7px;
+        margin-top: 10px;
+        text-decoration: none;
+        font-weight: 550; 
+        text-shadow: 2px 2px 4px black;
+    }
+    /*.p2-button:hover{border:.2em solid blueviolet;
+        background: orange;
+        font-weight: 530;
+        text-shadow: 1px 1px 4px white;
+        -webkit-text-fill-color: black;
+    }*/
+    .pt li{
+        color: aliceblue;
+        justify-content: left;
+        text-align: left;
+        margin-top: 10px;
+        margin-left: 12px;
+        font-size:18px;
+    }
+    .pt p{
+       font-size:1em;
+       font-weight: 330;
+       color: white;
+       text-align: left;
+       width: 95%;
+       margin-left:3.5px;
+    }
+    .pt ul{
+        color: aliceblue;
+        text-align: left;
+        margin-top: 20px;
+        font-size: 20px;
+        padding: 0px 7px;
+        font-style: oblique;
+        text-shadow: 2px 2px 5px red;
+    }
+    .g-button {
+        display: inline-block;
+        padding:0px 1px 2px 1px;
+        color: black;
+        margin-left:8px;
+        background-color:orange;
+        border-radius: 14px;
+        cursor: pointer;
+        width: 80%;
+        margin-bottom: 7px;
+        font-size: 15px;
+        text-decoration: none;
+        font-weight: 750; 
+        text-shadow: 1px 1px 4px white;
+    }
+    .g-button:hover{border:.2em solid blueviolet;
+        background: orange;
+        font-weight: 730;
+        text-shadow: 1px 1px 4px white;
+        -webkit-text-fill-color: black;
+    }
+    .g1-button {
+        display: inline-block;
+        padding:0px 1px 2px 1px;
+        color: black;
+        background-color:orange;
+        border-radius: 14px;
+        cursor: pointer;
+        width: 80%;
+        margin-left:8px;
+        text-decoration: none;
+        margin-bottom: 7px;
+        font-weight: 750; 
+        font-size: 18px;
+        text-shadow: 2px 2px 4.1px red;
+    }
+    /*
+    .g1-button:hover{border:.1em solid blueviolet;
+        background: orange;
+        font-weight: 530;
+        text-shadow: 1px 1px 4px red;
+        -webkit-text-fill-color: black;
+    }*/
+    .pc333 p{
+        color: red;
+        font-size:20px;
+        font-weight:550;
+        text-shadow: .5px .5px 1px white;
+        justify-content:top;
+        margin: 10px;
+    }    
+    }
+    
