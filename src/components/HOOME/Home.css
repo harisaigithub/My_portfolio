@@ -222,9 +222,10 @@ background: orange;
   }
   .hc2{
     font-size: 193%;
-    width: auto;
+    width: 120%;
     text-align: center;
     justify-self:center;
+    margin-left: 10px;
   }
   
   .text22 p{
@@ -253,7 +254,7 @@ background: orange;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0px;
+    margin-top:10px;
     margin-left:20%;
   }
   .hc3{
