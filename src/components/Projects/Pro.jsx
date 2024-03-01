@@ -78,7 +78,7 @@ function Pro() {
                 <p><b>Type Frenzy - A Thrilling Typing Game </b></p><p>Get ready to test your typing speed and accuracy with Type Frenzy, an exciting web-based typing game developed using HTML, CSS, ReactJS and JavaScript. </p><p>This project offers a challenging and engaging experience for players of all skill levels</p>
               </div>
               <a href="www.example.com" className="g1-button">Stay Tuned!</a>
-            </div>
+            </div>  
             <div className="pc6">
             <div className="pc61">
             <img className="p6-image" src={p6} alt="Truth Seeker"/>  
