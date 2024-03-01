@@ -64,17 +64,13 @@ function Home(){
                An Undergraduate
          </div>
          <div className="hc11">
-         <div className="hc3">
-             <a className="LIKENDIN" href="https://www.linkedin.com/in/parasa-hari-sai" target="_blank" rel="noopener noreferrer">
-                 LINKEDIN
-             </a>
-         </div> 
-         <div className="hc4">
-             <a className="MYWORKS" href="https://www.github.com/harisaigithub" target="_blank" rel="noopener noreferrer">
-                 MY WORKS
-             </a>
-              </div> 
-              </div>
+            <div className="hc3">
+                <a className="LIKENDIN" href="https://www.linkedin.com/in/parasa-hari-sai" target="_blank" rel="noopener noreferrer">LINKEDIN</a>
+            </div> 
+            <div className="hc4">
+                <a className="MYWORKS" href="https://www.github.com/harisaigithub" target="_blank" rel="noopener noreferrer">MY WORKS</a>
+                  </div> 
+        </div>
        </div>
          <div className="containerc2">
        <img src={myImage} alt="ME" />
