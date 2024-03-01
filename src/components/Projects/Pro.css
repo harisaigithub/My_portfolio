@@ -388,7 +388,7 @@
     } 
     .pc1, .pc2, .pc3, .pc4, .pc5, .pc6{
         margin-left:1%;
-        width: 100%;
+        width:auto;
         margin:2px;
         display: flex;
         flex-direction:column;
@@ -449,6 +449,9 @@
         text-shadow: 1px 1px 4px white;
         -webkit-text-fill-color: black;
     }*/
+    .pt{
+        width: auto;
+    }
     .pt li{
         color: aliceblue;
         justify-content: left;
