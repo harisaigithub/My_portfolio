@@ -30,7 +30,7 @@ const Skills = () => {
                 <div className="sc212 dropdown-content">
                     <ul>
                         <li>SQL</li>
-                        <li>Mango DB</li>
+                        <li>Mongo DB</li>
                         <li>DBMS</li>
                         <li>PostgreSQL</li>
                     </ul>
