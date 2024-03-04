@@ -25,3 +25,5 @@ Dynamic and Responsive Design:** The website adapts seamlessly to different scre
 **Technology Stack:**
 
 Frontend: HTML, CSS, JavaScript, ReactJS
+
+
